@@ -12,3 +12,4 @@ C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8
 C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\EmployeeSystem.pdb
 C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\EmployeeSystem.genruntimeconfig.cache
 C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\ref\EmployeeSystem.dll
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\EmployeeSystem.sourcelink.json
