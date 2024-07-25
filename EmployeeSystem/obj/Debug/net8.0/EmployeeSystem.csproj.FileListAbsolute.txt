@@ -1,0 +1,14 @@
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\EmployeeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\EmployeeSystem.AssemblyInfoInputs.cache
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\EmployeeSystem.AssemblyInfo.cs
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\EmployeeSystem.csproj.CoreCompileInputs.cache
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\bin\Debug\net8.0\EmployeeSystem.exe
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\bin\Debug\net8.0\EmployeeSystem.deps.json
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\bin\Debug\net8.0\EmployeeSystem.runtimeconfig.json
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\bin\Debug\net8.0\EmployeeSystem.dll
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\bin\Debug\net8.0\EmployeeSystem.pdb
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\EmployeeSystem.dll
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\refint\EmployeeSystem.dll
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\EmployeeSystem.pdb
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\EmployeeSystem.genruntimeconfig.cache
+C:\Users\jagwe\OneDrive\Desktop\Codemo\C#\Employee\EmployeeSystem\obj\Debug\net8.0\ref\EmployeeSystem.dll
